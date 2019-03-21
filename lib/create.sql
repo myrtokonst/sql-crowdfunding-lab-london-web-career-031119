@@ -1,1 +1,1 @@
-CREATE t
+CREATE TABLE projects
